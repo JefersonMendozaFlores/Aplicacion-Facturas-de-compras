@@ -1,0 +1,40 @@
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\bin\Debug\PrjBDCompras.exe.config
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\bin\Debug\PrjBDCompras.exe
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\bin\Debug\PrjBDCompras.pdb
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Properties.Resources.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.GenerateResource.cache
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.exe
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.pdb
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Form1.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Registro_de_Ruc.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Mantenimiento_RUC.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Registro_de_Compra.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Mantenimiento_de_Compra.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Generar_reporte_Excel.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Modificar_Estado_de_Registro.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Verificacion_de_Compra.resources
+C:\Users\User\Documents\Proyecto Jeferson\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Login.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\bin\Debug\PrjBDCompras.exe.config
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\bin\Debug\PrjBDCompras.exe
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\bin\Debug\PrjBDCompras.pdb
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.AssemblyReference.cache
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.SuggestedBindingRedirects.cache
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.ResolveComReference.cache
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Login.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Form1.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Generar_reporte_Excel.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Mantenimiento_de_Compra.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Mantenimiento_RUC.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Modificar_Estado_de_Registro.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Properties.Resources.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Registro_de_Compra.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Registro_de_Ruc.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.Verificacion_de_Compra.resources
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.GenerateResource.cache
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.csproj.CoreCompileInputs.cache
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.exe
+F:\EVIDENCIAS\Facturas de compras\SlnBDCompras\PrjBDCompras\obj\Debug\PrjBDCompras.pdb
